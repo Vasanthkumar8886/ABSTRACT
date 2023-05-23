@@ -1,0 +1,13 @@
+*{
+    margin: 10px;
+}
+body{
+    margin: 5px;
+    background-image: url(abstract.webp);
+    background-size: cover;
+    color: white;
+    font-style: oblique;
+}
+img{
+   margin: 50px; 
+}
